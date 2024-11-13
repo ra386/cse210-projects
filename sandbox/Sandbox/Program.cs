@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Security.Cryptography.X509Certificates;
 
 class Program
 {
@@ -60,11 +61,30 @@ class Program
 
         // } while (true);
 
-        List<string> words = new List<string>();
-        words.Add("car");
-        words.Add("phone");
-        words.Add("laptop");
-        words.Add("ride");
+        // List<string> words = new List<string>();
+        // words.Add("car");
+        // words.Add("phone");
+        // words.Add("laptop");
+        // words.Add("ride");
 
+        Public class blind
+        {
+            public double _width;
+             public double _height;
+             public string _color;
+            
+        }
+        blind kitchen = new blind();
+        {
+            
+             kitchen._width = 60;
+             kitchen._height = 48;
+             kitchen._color = "white";
+        }
+
+       
+
+      
     }
+
 }
