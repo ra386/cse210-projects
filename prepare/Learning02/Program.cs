@@ -10,28 +10,12 @@ class Program
 
         Job job1 = new Job();
         Job job2 = new Job();
-
-        // Job one information 
-
-        
         job1._company = "Amazon";
-
-       
         job1._jobTitle = "Software Developper";
-
-       
         job1._startYear = 2017;
-
-        
         job1._endYear = 2020;
-
-
-        // Job two information
-
-        
         job2._company = "Microsoft";
 
-        
         job2._jobTitle = "Backend Developper";
 
         
