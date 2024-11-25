@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+// to exceed requirements my program hides words randomly but does not unhide an already hidden word
 
 class Program
 {
