@@ -11,7 +11,6 @@ public class Address
         this.StreetAdd = StreetAdd;
         this.City = City;
         this.Country = Country;
-
     }
 
     public bool InUsa()
