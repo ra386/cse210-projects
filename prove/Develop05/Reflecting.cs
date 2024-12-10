@@ -66,7 +66,7 @@ public class Reflecting : Activity
                  if (DateTime.Now >= EndTime)
                 {
                   isTimeUp = true;
-                  break; // Exit the question loop
+                  break; 
                 }
             }
 
